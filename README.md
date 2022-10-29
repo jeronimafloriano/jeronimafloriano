@@ -11,7 +11,6 @@
 
 :coffee: Java <br>
 :leaves: Spring <br>
-:tea: Jakarta <br>
 
 
 ## Projetos por stack
