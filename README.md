@@ -5,7 +5,7 @@
 :blush: **Olá, meu nome é Jeronima Floriano** <br>
 :computer: Analista de Qualidade e Desenvolvedora em Formação <br>
 :floppy_disk: Aprendizado e proficiência principal em :coffee: Java e Spring<br>
-:ballot_box_with_check: https://www.linkedin.com/in/eron-alves-da-silva/ <br>
+:ballot_box_with_check: https://www.linkedin.com/in/jeronimafloriano/ <br>
 
 ## Stack
 
