@@ -19,7 +19,9 @@
 <summary>Back End</summary>
   <ul>
     <li><a href="https://github.com/jeronimafloriano/java-spring-microservicos">[Java/Spring] Microsserviços com Java e Spring: IFlashFood</a></li>
+    <li><a href="https://github.com/jeronimafloriano/mybank">[Java/Spring/MongoDB] Processamento de um banco com MongoDB</a></li>
     <li><a href="https://github.com/jeronimafloriano/spring-boot-vendas">[Java/Spring] Api de Vendas</a></li>
+    <li><a href="https://github.com/jeronimafloriano/testes-unitarios-e-integrados-com-java-e-spring">[Java/Spring/Junit/Mockito] Testes unitários e integrados</a></li>
     <li><a href="https://github.com/jeronimafloriano/clean-arq-escola">[Java] Clean Architecture com Java</a></li>
     <li><a href="https://github.com/jeronimafloriano/ddd-escola">[Java] Projeto de matriculas de alunos, utilizando DDD</a></li>
   </ul>
