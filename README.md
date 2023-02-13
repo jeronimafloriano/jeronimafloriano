@@ -20,11 +20,10 @@
   <ul>
     <li><a href="https://github.com/jeronimafloriano/java-spring-microservicos">[Java/Spring] Microsserviços com Java, Spring e Comunicação Síncrona: IFlashFood</a>
     <li><a href="https://github.com/jeronimafloriano/java-spring-microservicos">[Java/Spring] Microsserviços com Java, Spring, Comunicação Síncrona e Assíncrona: StarBank</a>
-      <li><a href="https://github.com/jeronimafloriano/mybank">[Java/Spring] Consumindo API para cadastro de CEP, CPF e CNPJ</a></li>
-</li>
+     <li><a href="https://github.com/jeronimafloriano/mybank">[Java/Spring] Consumindo API para cadastro de CEP, CPF e CNPJ</a></li>
     <li><a href="https://github.com/jeronimafloriano/mybank">[Java/Spring/MongoDB] Processamento de um banco fícticio com MongoDB</a></li>
     <li><a href="https://github.com/jeronimafloriano/spring-boot-vendas">[Java/Spring] Api de Vendas</a></li>
-    <li><a href="https://github.com/jeronimafloriano/testes-unitarios-e-integrados-com-java-e-spring">[Java/Spring/Junit/Mockito] Testes unitários e integrados</a></li>
+    <li><a href="https://github.com/jeronimafloriano/testes-unitarios-e-integrados-com-java-e-spring">[Java/Spring/Junit/Mockito] Testes unitários e integrados</a>
     <li><a href="https://github.com/jeronimafloriano/clean-arq-escola">[Java] Clean Architecture com Java</a></li>
     <li><a href="https://github.com/jeronimafloriano/ddd-escola">[Java] Projeto de matriculas de alunos, utilizando DDD</a></li>
   </ul>
