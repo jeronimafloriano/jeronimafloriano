@@ -3,8 +3,8 @@
 # Hello World
 
 :blush: **Olá, meu nome é Jeronima Floriano** <br>
-:computer: Analista de Qualidade e Desenvolvedora de Software <br>
-:floppy_disk: Aprendizado e proficiência principal em :coffee: Java e Spring<br>
+:computer: Desenvolvedora de Software <br>
+:floppy_disk: Aprendizado e proficiência principal em :coffee: Java, Spring, Angular e SQL<br>
 :ballot_box_with_check: https://www.linkedin.com/in/jeronimafloriano/ <br>
 
 ## Stack
