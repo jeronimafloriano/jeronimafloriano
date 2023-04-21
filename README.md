@@ -11,6 +11,8 @@
 
 :coffee: Java <br>
 :leaves: Spring <br>
+Angular
+PLSQL
 
 
 ## Projetos por stack
