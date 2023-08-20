@@ -20,7 +20,7 @@ PLSQL
 <details>
 <summary>Back End</summary>
   <ul>
-    <li><a href="https://github.com/jeronimafloriano/java-spring-microservicos">[Java/Spring] Microsserviços com Java, Spring, Comunicação Síncrona e Assíncrona: StarBank</a>
+    <li><a href="https://github.com/jeronimafloriano/starbank-microsservices">[Java/Spring] Microsserviços com Java, Spring, Comunicação Síncrona e Assíncrona: StarBank</a>
     <li><a href="https://github.com/jeronimafloriano/java-spring-microservicos">[Java/Spring] Microsserviços com Java, Spring e Comunicação Síncrona: IFlashFood</a>
     <li><a href="https://github.com/jeronimafloriano/biblioteca-cadastros">[Java/Spring] Consumindo API para cadastro de CEP, CPF e CNPJ</a></li>
     <li><a href="https://github.com/jeronimafloriano/mybank">[Java/Spring/MongoDB] Processamento de um banco fícticio com MongoDB</a></li>
